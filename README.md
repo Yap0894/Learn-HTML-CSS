@@ -9,10 +9,12 @@ Learning Ruby language using :
 
 ### HTML & CSS
   - [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-  - [HTML Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/)
+  - [HTML Basic](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+  - [CSS Basic](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
   
 ## Others
+  - [Special Character HTML](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
   
 [license-shield]: https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge
 [license-url]: https://github.com/Yap0894/Learn_Ruby/blob/master/LICENSE.txt
